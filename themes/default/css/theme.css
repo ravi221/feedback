@@ -1,0 +1,102 @@
+body {
+  /* background-color:#cc3300;
+   background-color:#e0e0e0;  */
+
+
+}
+a {
+    color: #ffece6;
+
+}
+
+a:focus, a:hover{
+    color: #ff8c66;
+}
+.bottom-align-text {
+   background: #000 none repeat scroll 0 0;
+    bottom: 0;
+    color: #fff;
+    display: block;
+    font-family: "Roboto",sans-serif;
+    font-size: 22px;
+    font-weight: 400;
+    left: 0;
+    line-height: 31px;
+    opacity: 0.4;
+    padding: 12px 10px 12px;
+    position: absolute;
+    text-align: center;
+    text-transform: uppercase;
+    width: 100%;
+ }
+.bottom-column
+{
+    float: none;
+    display: table-cell;
+    vertical-align: bottom;
+}
+
+.gs-menu{
+    bottom: 0;
+    display: block;
+    left: 0;
+    line-height: 31px;
+    width: 100%;
+    text-align: right;
+    padding: 31px 0 32px;
+}
+
+h2 {
+    font-size: 3.375em;
+    font-weight: 400;
+}
+
+h2.small-heading {
+    padding: 60px 0 10px 0;
+    font-size: 2.25em;
+    margin-bottom: 20px;
+    position: relative;
+    display: block;
+    text-align: center;
+}
+
+.contact-info {
+    margin-bottom: 30px;
+}
+
+.text-center{
+    margin-left: 350px;
+}
+.contact-info .data {
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: -ms-flexbox;
+    display: flex;
+    margin-bottom: 20px;
+}
+
+.contact-info .data i {
+    background: rgba(248,80,50,1);
+    border-radius: 50%;
+    border: 1px solid #C78443;
+    color: #ffffff;
+    font-size: 25px;
+    height: 60px;
+    line-height: 60px;
+    margin-right: 20px;
+    text-align: center;
+    width: 60px;
+}
+
+.contact-info .data span {
+    padding-top: 18px;
+}
+
+.contact-info .data:first-child span {
+    padding-top: 7px;
+}
+
+.sebm-google-map-container {
+  height: 300px;
+}
+
